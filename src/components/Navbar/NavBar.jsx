@@ -1,4 +1,4 @@
-import epicLogo from "../../assets/epic.png"
+import rockstar from "../../assets/rockstar.jpg"
 import CartWidget from "./CartWidget"
 import { Link } from "react-router-dom"
 
@@ -8,7 +8,7 @@ const NavBar = () => {
   return (
     <nav className="navbar">
       <Link to="/" className="brand link-navbar">
-        <img className="logo" src={epicLogo} alt="logo epic" />
+        <img className="logo" src={rockstar} alt="logo epic" />
       </Link>
       <ul className="categorias">
         <Link to="/category/shooter" className="categoria link-navbar">Shooter</Link>
