@@ -11,7 +11,7 @@ const products = [
   {
     id: "Axasass112",
     name: "Red dead redeption II",
-    description: "Red Dead Redemption 2 es un videojuego de acción-aventura de mundo abierto desarrollado y publicado por Rockstar Games. El juego es la tercera entrada de la serie Red Dead y una precuela del juego de 2010 Red Dead Redemptio",
+    description: "Red Dead Redemption 2 es un videojuego de acción-aventura de mundo abierto desarrollado y publicado por Rockstar Games. El juego es la tercera entrada de la serie Red Dead y una precuela del juego de 2010 Red Dead Redemptio, juego de mundo abierto",
     price: 210,
     stock: 3,
     category: "survival",
